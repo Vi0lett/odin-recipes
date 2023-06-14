@@ -4,7 +4,7 @@ It works as practice for basic HTML.
 
 ## Knowledge demonstrated:
 - HTML
-  - Building the html borderplate
+  - Building the HTML boilerplate
   - Making different types of headings
   - Formatting text
     - paragraphs, emphasize and strong, italics
